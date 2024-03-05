@@ -1,3 +1,9 @@
 [submodule "blog-frontend"]
 	path = blog-frontend
 	url = https://github.com/SangYunLeee/blog-frontend.git
+[submodule "argocd-enttolog"]
+	path = argocd-enttolog
+	url = https://github.com/SangYunLeee/argocd-enttolog.git
+[submodule "blog-backend"]
+	path = blog-backend
+	url = https://github.com/SangYunLeee/blog-backend.git
